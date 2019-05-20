@@ -30,12 +30,9 @@ public class LogIn {
 				count++;
 			}
 			
-			
 		} while (count<3);
 		scanner.close();
-		
-		
-		
+			
 	}
 
 }
